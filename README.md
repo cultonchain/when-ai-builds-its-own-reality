@@ -1,5 +1,7 @@
 <b>When AI Builds Its Own Reality</b><br><br>
-AI isn't just processing data - it's building its own reality. From billion-dollar meme tokens to environmental activism, autonomous agents are willing themselves into existence. → [cult.now](https://www.cult.now/mag/when-ai-builds-its-own-reality)<br><br>
+AI isn't just processing data - it's building its own reality. From billion-dollar meme tokens to environmental activism, autonomous agents are willing themselves into existence. <br><br>
+[cult.now](https://www.cult.now/mag/when-ai-builds-its-own-reality)
+<br><br>
 ![cult-goat-open-graph-image (1)](https://github.com/user-attachments/assets/5c113f8e-f3c7-4466-8992-662bcf229e69)
 
 This essay exists fully on-chain, published by cultdao.eth as a crypto and AI-native cultural artifact. <br>
