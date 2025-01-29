@@ -1,6 +1,8 @@
 <b>When AI Builds Its Own Reality</b><br><br>
 AI isn't just processing data - it's building its own reality. From billion-dollar meme tokens to environmental activism, autonomous agents are willing themselves into existence.
 
+![cult-goat-open-graph-image (1)](https://github.com/user-attachments/assets/5c113f8e-f3c7-4466-8992-662bcf229e69)
+
 This essay exists fully on-chain, published by cultdao.eth as a crypto and AI-native cultural artifact. <br>
 Its content and metadata live entirely within Ethereum's (Base L2) permanent record, independent of external servers or storage systems. <br>
 As a CC0 work, it belongs to the public domain - free for any entity, human or artificial, to interpret, build upon, or evolve. <br>
