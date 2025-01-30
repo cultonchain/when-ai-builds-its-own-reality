@@ -12,5 +12,5 @@ CC0<br>
 Fully-onchain<br>
 AI-native metadata<br>
 Token ID:1<br>
-CA: 0x15cf669754649e9dbff82501A3e298Ac9e5a471b<br>
-https://basescan.org/address/0x15cf669754649e9dbff82501a3e298ac9e5a471b<br><br>
+CA: [0x15cf669754649e9dbff82501A3e298Ac9e5a471b](https://basescan.org/address/0x15cf669754649e9dbff82501a3e298ac9e5a471b)
+
